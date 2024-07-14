@@ -1,2 +1,7 @@
-main:main.c
-	cc main.c -o main
+twice:twice.c
+	cc twice.c -o twice
+gates:gates.c
+	cc gates.c -o gates -lm
+
+
+
